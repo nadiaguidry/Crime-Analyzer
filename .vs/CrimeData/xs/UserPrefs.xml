@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{ACDF9163-A3F7-4F6B-8384-4E80D2F03105}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CrimeData/Program.cs">
+    <Files>
+      <File FileName="CrimeData/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CrimeData FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
